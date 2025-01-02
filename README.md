@@ -6,9 +6,9 @@ Welcome to the **Computer Graphics Algorithms in OpenGL** repository! This colle
 
 This repository includes the following files:
 
-### 2D and 3D Transformations
-- `2dTransformation.cpp`: Interactive implementation of 2D geometric transformations.
-- `3dTransformation.cpp`: Demonstrates 3D transformations like scaling, rotation, and translation.
+### Basic Programs
+- `Hut.cpp`: A hut, showcasing basic design principles.
+- `2dAnimation.cpp`: Animation capabilities to 2D scenes.
 
 ### Drawing Algorithms
 - `Bresenhams_Line_Algorithm.cpp`: Efficient line-drawing algorithm using integer arithmetic.
@@ -16,23 +16,21 @@ This repository includes the following files:
 - `Circle_Ellipse.cpp`: Drawing circles and ellipses interactively.
 - `Ellipse.cpp`: Focused implementation of ellipse-drawing algorithms.
 
-### Bézier and Fractal Patterns
-- `BezierCurve.cpp`: Generate and interact with Bézier curves.
-- `Fractals_pattern1.cpp` and `Fractals_pattern2.cpp`: Create visually appealing fractal patterns.
-
 ### Clipping and Filling
 - `Clipping_Liang_Cohen.cpp`: Liang-Barsky algorithm for line clipping.
 - `Filling_Algo.cpp`: Demonstrates area-filling algorithms.
-
-### Interactive Graphics
-- `2dAnimation.cpp`: Adds animation capabilities to 2D scenes.
-- `Hut.cpp`: Interactive drawing of a hut, showcasing basic design principles.
+  
+### 2D and 3D Transformations
+- `2dTransformation.cpp`: Interactive implementation of 2D geometric transformations.
+- `3dTransformation.cpp`: Demonstrates 3D transformations like scaling, rotation, and translation.
+  
+### Bézier and Fractal Patterns
+- `BezierCurve.cpp`: Created a program utilizing Bézier curves.
+- `Fractals_pattern1.cpp` and `Fractals_pattern2.cpp`: Created visually appealing fractal patterns.
 
 ## Features
 
 - **Interactive Programs:** All algorithms include interactive features, allowing users to adjust parameters or interact with the graphics dynamically.
-- **Educational Value:** Designed with a focus on helping students understand the underlying concepts of computer graphics.
-- **Variety of Topics:** Covers a wide range of computer graphics algorithms, from basic line-drawing techniques to complex transformations and fractals.
 
 ## Getting Started
 
